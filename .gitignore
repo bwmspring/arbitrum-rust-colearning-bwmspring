@@ -1,5 +1,2 @@
-hello_web3/target
-level2-balance-query/target
-level3-gas-fee/target
-level4-transaction-send/target
-level4-transaction-send/.env
+*/.env
+*/target
